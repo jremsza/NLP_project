@@ -29,11 +29,11 @@ The study found that **Latent Dirichlet Allocation (LDA)** with 10 topics provid
 
 ### Visual Evidence
 **1. Model Performance:**
-![Model Comparison](images/model_performance_comparison.png)
+
 *LDA outperformed the baseline by over 40x in terms of cluster cohesion.*
 
 **2. Cluster Separation (t-SNE):**
-![t-SNE Projection](images/tsne_lda_clusters.png)
+
 *The final model successfully segmented reviews into "Books" (Cluster 0), "Movies" (Cluster 1), and "Music" (Cluster 2).*
 
 ---
